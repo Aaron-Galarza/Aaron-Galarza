@@ -63,24 +63,6 @@ Utilizo herramientas de inteligencia artificial como apoyo para el análisis y l
 
 ---
 
-## Proyectos destacados
-
-### Cheepers – Sistema de pedidos gastronómicos (TS - MongoAtlas - REACT )
-Proyecto freelance remunerado. App Web para un negocio de comidas rapidas. Implementación de API REST, autenticación, manejo de usuarios, productos y pedidos, lógica de negocio y persistencia de datos.  
-Rol: Project Manager & Backend Developer.
-
-### ModeladoPAO - Sistema de pedidos artisticos (TS - FIREBASE - REACT)
-Proyecto freelance remunerado. App Web para un emprendimiento de porcelana fria. Implementación de API REST, autenticación, manejo de usuarios, productos y pedidos, lógica de negocio y persistencia de datos.  
-Rol: Project Manager & Backend Developer.
-
-### Spa Sentirse Bien - Sistema de turnos (JAVA - REACT)
-Aplicación full stack para la gestión de servicios, turnos y pagos online, integrando frontend en React y backend mediante API REST.
-
-### SGDB - Sistema gestor de base de datos (JAVA)
-Proyecto académico en Java orientado a comprender el funcionamiento interno de un gestor de datos. Implementa operaciones CRUD, manejo de archivos, autenticación multiusuario y exportación de información, con enfoque modular y escalable.
-
----
-
 ## Actividad en GitHub
 <p align="center">
   <img
