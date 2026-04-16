@@ -22,9 +22,9 @@ Developer orientado a backend, datos y diseño de sistemas.
 
 <br>
 <br>
+<br>
 
 ---
-
 ## Tecnologías
 Utilizo herramientas de inteligencia artificial como apoyo para el análisis y la productividad, manteniendo siempre criterio técnico, validación humana y responsabilidad sobre el código.
 
