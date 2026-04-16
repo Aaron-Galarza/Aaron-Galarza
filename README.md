@@ -5,30 +5,28 @@ Developer orientado a backend, datos y diseño de sistemas.
 
 <img 
   align="right" 
-  width="400" 
+  width="300" 
   src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" 
 />
 
+
+<br>
+<br>
+
 ### Sobre mí
-
-Desarrollador de software orientado a backend, datos y diseño de sistemas.  
-Cuento con experiencia en proyectos reales y académicos, trabajando principalmente en lógica de negocio, modelado de datos y desarrollo de APIs.
-
-Me interesa comprender cómo funcionan los sistemas internamente, analizar problemas desde su base y construir soluciones claras, mantenibles y escalables. Trabajo con programación orientada a objetos, estructuras bien definidas y buenas prácticas de desarrollo.
-
-Utilizo herramientas de inteligencia artificial como apoyo para el análisis y la productividad, manteniendo siempre criterio técnico, validación humana y responsabilidad sobre el código.
-
-**Áreas de enfoque:**
 - Desarrollo backend y APIs
 - Bases de datos y modelado de datos
 - Seguridad y control de accesos
 - Diseño de sistemas y lógica de negocio
 - Automatización y mejora de procesos
 
+<br>
+<br>
 
 ---
 
 ## Tecnologías
+Utilizo herramientas de inteligencia artificial como apoyo para el análisis y la productividad, manteniendo siempre criterio técnico, validación humana y responsabilidad sobre el código.
 
 ### Lenguajes de programación
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
